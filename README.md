@@ -1,6 +1,8 @@
 # SOP
 Exam project high school drowsiness detection
 
+File to run:
+Drowsiness_detection.py
 
 
 Requirement:
