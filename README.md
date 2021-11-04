@@ -1,5 +1,5 @@
 # SOP
-Exam project high school drowsiness detection
+Exam project First Year Project:  drowsiness detection
 
 File to run:
 Drowsiness_detection.py
